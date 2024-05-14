@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HTsckEdupJVg9nyxoDfhrxiVH4W4Y6EdAQi52a0JoScjRo4e+bZLuqUtUtBFk3ElAHlilp+McqnyCDh0pj89lg==",
+  "dgSpecHash": "aOlRZwEdsVMLjplkcpfwSBKZDAxT/+Y21ZGZAxkP6Yq6D9skndEifWkG2Nqh/ibB930iWJD59H5BN+8U2XvLuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Área de Trabalho\\dioAvanade\\dioAvanade.csproj",
+  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Área de Trabalho\\dioAvanadeSerializacao\\dioAvanade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
