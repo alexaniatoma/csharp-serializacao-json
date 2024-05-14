@@ -1,6 +1,0 @@
-Pellentesque pretium lacinia est at tincidunt. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
-Etiam et scelerisque velit. Praesent faucibus nibh orci, at viverra dui molestie sollicitudin. 
-Ut rhoncus sollicitudin eleifend. Aenean vel consectetur lorem. 
-Quisque gravida, mauris ac ultrices tempor, nunc ipsum semper turpis, vel molestie odio magna id arcu. 
-Nulla nisi sapien, auctor quis aliquam non, viverra vel felis.

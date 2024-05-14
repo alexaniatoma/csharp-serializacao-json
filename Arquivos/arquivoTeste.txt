@@ -1,7 +1,0 @@
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Donec non cursus ipsum. Ut ut aliquet eros. 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-Praesent rutrum, tortor varius volutpat pulvinar, lacus nulla facilisis odio, in hendrerit lacus turpis non mauris. 
-Aliquam iaculis sodales arcu, ac molestie nibh eleifend vitae. Morbi efficitur felis ac risus varius laoreet.
-Quisque porttitor eros et tristique dapibus.

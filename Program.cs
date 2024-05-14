@@ -1,21 +1,26 @@
 ﻿using dioAvanade.Models;
+using Newtonsoft.Json;
 
-LeituraArquivo arquivo = new LeituraArquivo();
+DateTime dataAtual = DateTime.Now;
+List<Venda> listaVendas = new List<Venda>();
 
-var(Sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivo/arquivoLeitura.txt");
-if(Sucesso)
-{
-    Console.WriteLine("O arquivo contém: " + quantidadeLinhas + " linhas");
+Venda v1 = new Venda(1, "Material de escritório", 25.00M, dataAtual);
+Venda v2 = new Venda(2, "Licença de Software", 110.00M, dataAtual);
 
-    foreach(string linha in linhasArquivo)
-    {
-        Console.WriteLine(linha);
-    }
-}
-    else
-    {
-        Console.WriteLine("Não foi possiviel ler o arquivo");
-    }
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+File.WriteAllText("Arquivo/vendas.json" , serializado);
+
+Console.WriteLine(serializado);
+
+
+
+
+
+
+
 
 
 

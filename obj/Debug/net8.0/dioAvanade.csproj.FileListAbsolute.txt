@@ -12,3 +12,7 @@ C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\refint\dio
 C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\dioAvanade.pdb
 C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\dioAvanade.genruntimeconfig.cache
 C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\ref\dioAvanade.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\dioAvanade.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\dioAvanade.sourcelink.json
+C:\Users\alexa\OneDrive\Área de Trabalho\dioAvanade\obj\Debug\net8.0\dioAvanade.csproj.Up2Date
