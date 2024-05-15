@@ -19,8 +19,7 @@ namespace dioAvanade.Models
         public int Id { get; set; }
         public string Produto { get; set; }
         public decimal Preco { get; set; }
-
-        public DateTime DataVenda { get; set; }
+         public DateTime DataVenda { get; set; }
 
     }
 }
